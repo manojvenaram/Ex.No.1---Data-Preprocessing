@@ -85,7 +85,11 @@ X_train.shape
 ### Y - Value
 ![190868981-6cbb46cf-7b7e-4c5c-afff-2f5b5e561a3d](https://user-images.githubusercontent.com/94165064/190869973-caa550fd-77c0-40c6-88fc-c75869092077.png)
 ### X_train values and X_train Size
+![190869018-3d22f961-1ea3-4615-bf4e-65c1c7556897](https://user-images.githubusercontent.com/94165064/190870096-2fc2c934-2b28-4a10-8d85-b2fe38eb1c78.png)
+
 ### X_test values and X_test Size
+![190869052-5ee17381-4171-400a-a2dd-53adad63ad0c](https://user-images.githubusercontent.com/94165064/190870101-e5ea5da8-26a7-41cd-aa38-2fb7036ff0b5.png)
+
 ### X_train shape
 ![190869077-0d77f576-7034-4fde-83c5-5b5976e33089](https://user-images.githubusercontent.com/94165064/190869983-9a793ceb-f01b-4c0d-927c-4922a386c128.png)
 
